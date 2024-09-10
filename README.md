@@ -1,6 +1,6 @@
 ![A soccer pitch for an international match.](soccer-pitch.jpg)
 
-extensive experience with both men's and women's international soccer matches leads to the gut instinct that more goals are scored in women's international football matches than in men's. This could form the basis of an interesting investigative article that subscribers are likely to appreciate, but a valid statistical hypothesis test is necessary to confirm this.
+Extensive experience with both men's and women's international soccer matches leads to the gut instinct that more goals are scored in women's international football matches than in men's. This could form the basis of an interesting investigative article that subscribers are likely to appreciate, but a valid statistical hypothesis test is necessary to confirm this.
 
 While scoping the project, it is acknowledged that the sport has evolved significantly over the years, and performances likely vary depending on the tournament. Therefore, the analysis is limited to only official FIFA World Cup matches (excluding qualifiers) since 2002-01-01.
 
