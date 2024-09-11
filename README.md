@@ -1,3 +1,5 @@
+# Introduction
+
 ![A soccer pitch for an international match.](soccer-pitch.jpg)
 
 Extensive experience with both men's and women's international soccer matches leads to the gut instinct that more goals are scored in women's international football matches than in men's. This could form the basis of an interesting investigative article that subscribers are likely to appreciate, but a valid statistical hypothesis test is necessary to confirm this.
@@ -15,3 +17,6 @@ A 10% significance level is assumed for the analysis, with the following null an
 H₀: The mean number of goals scored in women's international soccer matches is the same as in men's.
 
 Hₐ: The mean number of goals scored in women's international soccer matches is greater than in men's.
+
+# Conclusion 
+The p-value is greater than 0.01, the alternative hypothesis—that the mean number of goals scored in women's international soccer matches exceeds that in men's—must be rejected
